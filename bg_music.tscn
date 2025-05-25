@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bbanalp1whr5i"]
+
+[ext_resource type="AudioStream" uid="uid://dnwogws2ub1dr" path="res://8bit-music-for-game-68698.mp3" id="1_xx7uq"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_xx7uq")
+volume_db = 11.044
+autoplay = true
